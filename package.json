@@ -1,0 +1,33 @@
+{
+  "name": "cgpt_scaleweightsandmeasures",
+  "version": "1.0.0",
+  "description": "Try to do weights and measures scaling using ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vu2lid/CGPT_scaleWeightsAndMeasures.git"
+  },
+  "keywords": [
+    "weights",
+    "measures",
+    "REST",
+    "ChatGPT"
+  ],
+  "author": "vu2lid",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vu2lid/CGPT_scaleWeightsAndMeasures/issues"
+  },
+  "homepage": "https://github.com/vu2lid/CGPT_scaleWeightsAndMeasures#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.1.0"
+  }
+}

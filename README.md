@@ -1,6 +1,8 @@
 # CGPT_scaleWeightsAndMeasures
 
-### Weights and Measures scaling using OpenAI API
+#### Weights and Measures scaling using OpenAI API
+
+This is a simple/toy REST service in Node.js and Express using OpenAI API for converting and scaling weights and measures (it can be used for other purposes with a few changes).
 
 You will need Node.js and npm
 

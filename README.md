@@ -1,6 +1,6 @@
 # CGPT_scaleWeightsAndMeasures
 
-### Weights and Measures scaling using ChatGPT
+### Weights and Measures scaling using OpenAI API
 
 You will need Node.js and npm
 
@@ -15,4 +15,6 @@ It should be possible to test some weights and measures scaling with something l
 from a browser. It will comeup with an answer like:
 
 `{"scaledValue":"Answer: 40 ounces is equal to 1136.5225 milliliters"}`
+
+Experiment with training data and question !
 

@@ -14,7 +14,15 @@ It should be possible to test some weights and measures scaling with something l
 
 `http://localhost:3000/scaleWeightsAndMeasures?quantity=20&fromUnit=ounces&toUnit=milliliters&scaleFactor=2`
 
-from a browser. It will comeup with an answer like:
+from a browser. 
+
+OR
+
+`curl 'http://localhost:3000/scaleWeightsAndMeasures?quantity=20&fromUnit=ounces&toUnit=milliliters&scaleFactor=2'`
+
+from commandline.
+
+It will comeup with an answer like:
 
 `{"scaledValue":"Answer: 40 ounces is equal to 1136.5225 milliliters"}`
 
@@ -24,3 +32,5 @@ Experiment with training data and question !
 #### References
 1. [OpenAI quickstart](https://platform.openai.com/docs/quickstart)
 2. [Express Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+3. [Imperial units](https://en.wikipedia.org/wiki/Imperial_units)
+

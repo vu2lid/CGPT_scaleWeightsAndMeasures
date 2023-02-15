@@ -23,3 +23,4 @@ Experiment with training data and question !
 ---
 #### References
 1. [OpenAI quickstart](https://platform.openai.com/docs/quickstart)
+2. [Express Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)

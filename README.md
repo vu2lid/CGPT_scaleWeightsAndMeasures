@@ -20,3 +20,6 @@ from a browser. It will comeup with an answer like:
 
 Experiment with training data and question !
 
+---
+#### References
+1. [OpenAI quickstart](https://platform.openai.com/docs/quickstart)

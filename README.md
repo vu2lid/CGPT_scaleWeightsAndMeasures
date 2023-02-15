@@ -1,5 +1,6 @@
 # CGPT_scaleWeightsAndMeasures
-** Weights and Measures scaling using ChatGPT
+
+### Weights and Measures scaling using ChatGPT
 
 You will need Node.js and npm
 
